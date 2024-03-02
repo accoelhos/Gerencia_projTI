@@ -37,7 +37,7 @@
 
 ### Ambiente que os projetos operam
 - pode ter influencia + ou - nos projetos
-- **categorias de influencia: **
+- **categorias de influencia:**
 	- **Fatores ambientais da empresa: internos e externos**:
 		- I: Cultura, estrutura, distrib geografica, infra, soft de TI, recursos disponiveis e capacidade dos funcionarios. 
 		- E: mercado, questoes sociais e culturais, restriçoes legais, padroes gov, financeiro, físico
